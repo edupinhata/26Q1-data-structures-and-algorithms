@@ -8,9 +8,10 @@ Repository for discipline in Algorithm Structure and Data Structure and Algorith
 
 ## Aulas
 
-### 1. Definições, Notação O
+### 1. Definições, Notação O  (02/02/2026)
+
 
 Atividades:
 - [ ] Lista A
 - [ ] Lista B
-- [ ] Programas - [Lista 0](https://vjudge.net/contest/786725)
+- [x] Programas - [Lista 0](https://vjudge.net/contest/786725)
